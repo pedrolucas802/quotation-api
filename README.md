@@ -64,3 +64,4 @@ Create your first JPA entity
 [Related Hibernate with Panache section...](https://quarkus.io/guides/hibernate-orm-panache)
 
 # quotation-api
+# quotation-api
